@@ -1,52 +1,64 @@
 {
   "infoTargets": [
     {
-      "id": 1,
-      "title": "target 1",
-      "paragraphs": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "paragraph 2", "paragraph"
+      id: "suburbs",
+      title: "suburbs",
+      paragraphs: [
+        "Domestic water use is water used for indoor and outdoor household purposes— all the things you do at home: drinking, preparing food, bathing, washing clothes and dishes, brushing your teeth, watering the garden, and even washing the dog."
       ],
-      "position": {"x":-5.0, "y":2.0, "z":-3.0},
-      "geometry": "octahedron",
-      "event":  "",
-      "width": 1,
-      "height": 1
+      position: {"x":-5.0, "y":2.0, "z":-3.0},
+      geometry: "octahedron",
+      event:  "",
+      width: 1,
+      height: 1
     },
     {
-      "id": 2,
-      "title": "target 2",
-      "paragraphs": [
+      id: "town",
+      title: "town",
+      paragraphs: [
         "This is paragraph two", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       ],
-      "position": {"x":-2.5, "y":1.0, "z":-1.5},
-      "geometry": "dodecahedron",
-      "event":  "",
-      "width": 1,
-      "height": 1
+      position: {"x":-2.5, "y":1.0, "z":-1.5},
+      geometry: "dodecahedron",
+      event:  "",
+      width: 1,
+      height: 1
     },
     {
-      "id": 3,
-      "title": "target 3",
-      "paragraphs": [
-        "This is paragraph three", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      id: "water_treatment_plant",
+      title: "water_treatment_plant",
+      paragraphs: [
+        "Drinking water sources are subject to contamination and require appropriate treatment to remove disease-causing agents. Public drinking water systems use various methods of water treatment to provide safe drinking water for their communities."
       ],
-      "position": {"x":4.5, "y":2.5, "z":-2.0},
-      "geometry": "cone",
-      "event":  "",
-      "width": 1,
-      "height": 1
+      position: {"x":4.5, "y":2.5, "z":-2.0},
+      geometry: "cone",
+      event:  "",
+      width: 1,
+      height: 1
     },
     {
-      "id": 4,
-      "title": "target 4",
-      "paragraphs": [
-        "This is paragraph four", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      id: "city",
+      title: "city",
+      paragraphs: [
+        "City dwellers rely on public water systems to provide safe drinking water."
       ],
-      "position": {"x":0.2, "y":2.5, "z":-2.0},
-      "geometry": "plane",
-      "event":  "",
-      "width": 1,
-      "height": 1
+      position: {"x":0.2, "y":2.5, "z":-2.0},
+      geometry: "plane",
+      event:  "",
+      width: 1,
+      height: 1
+    },
+    {
+      id: "farm",
+      title: "farm",
+      paragraphs: [
+        "When agricultural water is used effectively and safely, production and crop yield are positively affected. A decrease in applied water can cause production and yield to decrease."
+      ],
+      position: {"x":0.2, "y":2.5, "z":-2.0},
+      geometry: "plane",
+      event:  "",
+      width: 1,
+      height: 1
     }
   ]
 }
